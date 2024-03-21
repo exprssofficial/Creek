@@ -74,7 +74,7 @@ Welcome to Creek Fox, a project that seeks to transform your Firefox experience 
 - Enter `about:profiles` in the URL bar
 - Identify your current profile and click on `Open Directory` in the `Root Directory` section
 - Create a `chrome` folder if one doesn't already exist
-- Download the [latest version](https://github.com/Creek-SG/Creek-Fox/releases/latest) 
+- Download the [latest version](https://github.com/exprssofficial/Creek/) 
 - Unzip the downloaded files and transfer them into the `chrome` folder
 
 Restart Firefox to experience your new cozy haven! 💓🎉
