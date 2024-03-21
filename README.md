@@ -1,9 +1,8 @@
 <div align="center">
 
-# Shina Fox - Make Firefox a Cozy Home
-<a href="https://discord.gg/txgKQUvwnY">Shina's Discord</a>
+# Creek Fox - Make Firefox a Cozy Home
 
-Welcome to Shina Fox, a project that seeks to transform your Firefox experience into something homely and comfortable. At the moment, it primarily focuses on theme development. Enjoy!
+Welcome to Creek Fox, a project that seeks to transform your Firefox experience into something homely and comfortable. At the moment, it primarily focuses on theme development. Enjoy!
 
 
 
@@ -75,7 +74,7 @@ Welcome to Shina Fox, a project that seeks to transform your Firefox experience 
 - Enter `about:profiles` in the URL bar
 - Identify your current profile and click on `Open Directory` in the `Root Directory` section
 - Create a `chrome` folder if one doesn't already exist
-- Download the [latest version](https://github.com/Shina-SG/Shina-Fox/releases/latest) 
+- Download the [latest version](https://github.com/Creek-SG/Creek-Fox/releases/latest) 
 - Unzip the downloaded files and transfer them into the `chrome` folder
 
 Restart Firefox to experience your new cozy haven! 💓🎉
